@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "Chac"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-Chac-8718b4a7-8669-4f59-a832-1ea03f9ab07b;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
