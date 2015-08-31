@@ -99,6 +99,7 @@ namespace Chac
             // Add the following to the request pipeline only in development environment.
             if (env.IsDevelopment())
             {
+                
                 app.UseBrowserLink();
                 app.UseErrorPage(ErrorPageOptions.ShowAll);
                 app.UseDatabaseErrorPage(DatabaseErrorPageOptions.ShowAll);
